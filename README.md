@@ -1,5 +1,5 @@
 # SQL
-<img src="" height="325px">
+<img src="https://giffiles.alphacoders.com/121/12161.gif" height="325px">
 
 <h1>Installation</h1>
 
